@@ -1,0 +1,36 @@
+.dark {
+    background-color: black;
+
+}
+
+.white {
+    background-color: white;
+}
+
+.alignment {
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    font-size: 1.2rem;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px 50px;
+}
+
+.darkButton {
+    border-color: white;
+    color: white;
+    background-color: black;
+    margin: 0 5px 0 0;
+}
+
+.whiteButton {
+    border-color: black;
+    color: black;
+    background-color: white;
+    margin: 0 0 0 5px;
+}
