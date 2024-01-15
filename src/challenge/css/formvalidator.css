@@ -1,0 +1,14 @@
+
+.top {
+    text-align: center;
+}
+
+input {
+    margin: 5px 0;
+    padding: 5px 60px;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 20px 0;
+}
